@@ -1,3 +1,6 @@
 first text 
 modified by akshat
+lecture no 8th
+this is changed now for skipping the staged area
+
 
